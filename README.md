@@ -65,7 +65,7 @@ cd /opt/3x-ui-telegram-bot
 ```
 ## 2. Установка необходимых пакетов
 ```bash
-sudo apt update && sudo apt install python3-venv python3-pip -y
+sudo apt update && sudo apt install python3-venv python3-pip pythonpy -y 
 ```
 ## 3. Создание виртуального окружения
 ```bash
